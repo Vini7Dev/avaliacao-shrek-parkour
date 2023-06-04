@@ -10,6 +10,8 @@ TagManager:
   - Slide
   - Reach
   - Pole
+  - Stop
+  - Item
   layers:
   - Default
   - TransparentFX
