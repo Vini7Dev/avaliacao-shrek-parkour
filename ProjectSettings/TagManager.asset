@@ -12,6 +12,9 @@ TagManager:
   - Pole
   - Stop
   - Item
+  - FinishCollider
+  - MenuCanvas
+  - InGameCanvas
   layers:
   - Default
   - TransparentFX
