@@ -2,6 +2,12 @@
 
 > Jogo de parkour do Shrek para a avaliação de computação gráfica
 
+## Estudantes
+
+* **Nome:** Pedro Luiz Zuviollo | **Código:** 22795
+
+* **Nome:** Vinícius Gabriel Pereira Brito | **Código:** 22630
+
 ## Sobre o Jogo
 
 > Em um futuro em que a esperança se haverá perdido, somente Shrequi pode salvar nossa copa!
@@ -31,6 +37,30 @@
 * **Iluminação:** Utilizando na iluminação do cenário principal e no cenário final, com holofotes coloridos na pista de dança;
 
 * **Manipulação de Áudio:** Utilizado para as diferentes músicas do jogo.
+
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Vini7Dev">
+        <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Foto do Vinícius Gabriel no GitHub"/><br>
+        <sub>
+          <b>Vinícius Gabriel</b>
+        </sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/preduouh">
+        <img src="https://avatars.githubusercontent.com/u/58116134" width="100px;" alt="Foto do Pedro Zuviollo no GitHub"/><br>
+        <sub>
+          <b>Pedro Zuviollo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ‍⚖️ License
 The MIT License (MIT)
