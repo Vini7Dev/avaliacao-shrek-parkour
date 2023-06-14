@@ -61,7 +61,7 @@ public class TrophyController : MonoBehaviour
                 trophyCount = 3;
             }
 
-            tropheusText.text = "Troféus: " + trophyCount + "/" + trophyCount;
+            tropheusText.text = "Troféus: " + trophyCount + "/" + totalOfTrophy;
         }
         else if (other.CompareTag("FinishCollider"))
         {
