@@ -5,7 +5,8 @@
 ## Sobre o Jogo
 
 > Em um futuro em que a esperança se haverá perdido, somente Shrequi pode salvar nossa copa!
-> OBJETIVO: Colete os três troféus do brasileirão para salvar a copa do mundo
+
+> **OBJETIVO:** Colete os três troféus do brasileirão para salvar a copa do mundo
 
 ### Vídeo de Demonstração
 
