@@ -4,9 +4,9 @@
 
 ## Estudantes
 
-* **Nome:** Pedro Luiz Zuviollo | **Código:** 22795
+**Nome:** Pedro Luiz Zuviollo | **Código:** 22795
 
-* **Nome:** Vinícius Gabriel Pereira Brito | **Código:** 22630
+**Nome:** Vinícius Gabriel Pereira Brito | **Código:** 22630
 
 ## Sobre o Jogo
 
@@ -51,14 +51,14 @@
       </a>
     </td>
 
-    <td align="center">
-      <a href="https://github.com/preduouh">
-        <img src="https://avatars.githubusercontent.com/u/58116134" width="100px;" alt="Foto do Pedro Zuviollo no GitHub"/><br>
-        <sub>
-          <b>Pedro Zuviollo</b>
-        </sub>
-      </a>
-    </td>
+  <td align="center">
+    <a href="https://github.com/preduouh">
+      <img src="https://avatars.githubusercontent.com/u/58116134" width="100px;" alt="Foto do Pedro Zuviollo no GitHub"/><br>
+      <sub>
+        <b>Pedro Zuviollo</b>
+      </sub>
+    </a>
+  </td>
   </tr>
 </table>
 
