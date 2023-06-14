@@ -1,6 +1,15 @@
 # Shrek Parkour
 
+<img src="./docs/title-screen.png" alt="Shrek Parcur">
+
 > Jogo de parkour do Shrek para a avaliação de computação gráfica
+
+## Descrição do Jogo
+
+> Em um futuro em que a esperança se haverá perdido, somente Shrequi pode salvar nossa copa!
+> OBJETIVO: Colete os três troféus do brasileirão para salvar a copa do mundo
+
+[![Video do Jogo](./docs/title-screen.png)](https://youtu.be/32nQ0kBwNiY)
 
 ## ‍⚖️ License
 The MIT License (MIT)
