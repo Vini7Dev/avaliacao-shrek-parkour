@@ -46,7 +46,7 @@
       <a href="https://github.com/Vini7Dev">
         <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Foto do Vinícius Gabriel no GitHub"/><br>
         <sub>
-          <b>Vinícius Gabriel</b>
+          <b>Vinícius Brito</b>
         </sub>
       </a>
     </td>
