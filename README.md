@@ -21,6 +21,16 @@
 
 <img src="./docs/print3.png" alt="Shrek Parcur 3">
 
+## Áreas da Computação Gráfica Utilizadas
+
+* **Modelagem 3D:** Utilizado para renderizar os personagens, itens e cenários do jogo;
+
+* **Animação:** Utilizado para animar os movimentos do personagem e dos itens. O personagem foi animado utilizado keyframes e o item via programação;
+
+* **Iluminação:** Utilizando na iluminação do cenário principal e no cenário final, com holofotes coloridos na pista de dança;
+
+* **Manipulação de Áudio:** Utilizado para as diferentes músicas do jogo.
+
 ## ‍⚖️ License
 The MIT License (MIT)
 
